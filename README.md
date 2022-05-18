@@ -38,7 +38,6 @@
 ### 🏆 ***Моя статистика:***
 <p align="center">
   <img src="https://metrics.lecoq.io/tinaevnk?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FAlmaty">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=tinaevnk&theme=darkhub">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=tinaevnk&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tinaevnk&&hide_border=trueshow_icons=true&theme=react">
   <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=tinaevnk&hide_border=true&theme=react-dark">
