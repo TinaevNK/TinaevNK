@@ -36,11 +36,17 @@
 
  ----
 ### 🏆 ***Моя статистика:***
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=tinaevnk&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tinaevnk&&hide_border=trueshow_icons=true&theme=react">
-  <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=tinaevnk&hide_border=true&theme=react-dark">
-</p>
+<img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tinaevnk&theme=github_dark">
+
+<div style="display: flex; justify-content: space-between; width: 100%">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tinaevnk&theme=github_dark"> 
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tinaevnk&theme=github_dark">
+</div>
+
+<div style="display: flex; justify-content: space-between; width: 100%">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tinaevnk&theme=github_dark"> 
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tinaevnk&theme=github_dark&utcOffset=8">
+</div>
 
 ### ***Контакты:***
 ### 📧 Почта: Nikkach1997@yandex.ru
