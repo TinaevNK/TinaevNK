@@ -36,6 +36,8 @@
 
  ----
 ### 🏆 ***Моя статистика:***
+<img width="99.5%" src="https://www.codewars.com/users/TinaevNK/badges/large">
+
 <img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tinaevnk&theme=github_dark">
 
 <div style="display: flex; justify-content: space-between; width: 100%">
@@ -50,7 +52,7 @@
 
 ### ***Контакты:***
 ### 📧 Почта: Nikkach1997@yandex.ru
-### 🌐 Telegram: @Nikkach
+### 🌐 Telegram: [@tinaevnk](https://t.me/tinaevnk)
 
 ![stats](https://komarev.com/ghpvc/?username=tinaevnk&style=flat-square&color=blueviolet)
 
